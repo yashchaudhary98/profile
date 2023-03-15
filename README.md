@@ -63,6 +63,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
+  https://github-readme-streak-stats.herokuapp.com/?user=yashchaudhary98
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yaschaudhary98&theme=dark&background=000000)](https://https://github.com/yashchaudhary98)
 
