@@ -12,10 +12,8 @@
 
 <div class="center">
   <h1>
-    Hey there
-  </h1>  
-    <img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDExODczNjYsIm5iZiI6MTcwMTE4NzA2NiwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI4VDE1NTc0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI5ZDE1MjhhMGNlNDJiNzZlYmNmYWRjZDFlMWRiNjY0NzY2Y2QxMThkMzViYWVmZTIwNzVmZDlhNzNhYWE1NzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.y1tE2KozikbDSkR_4k2LwZIv0ft2-KEf2eNRKCaLL7E"/>
-
+    HEY THERE...
+  </h1> 
 </div>
 
 <div align="center">
@@ -37,22 +35,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+<h3 align="left">Connect with me:</h3>
 
+<p align="left">
+<a href="https://dev.to/Yashchaudhary98" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aryan-verma1710" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/@aryan-verma" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" height="30" width="40" /></a>
 
----
+</p>
 
-### :fire: My Stats :
+### Badges
 
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/Yashchaudhary98"><img src="https://github-readme-stats.vercel.app/api?username=Yashchaudhary98&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&show_icons=true" alt="AYashchaudhary98's GitHub stats" /></a>
 
